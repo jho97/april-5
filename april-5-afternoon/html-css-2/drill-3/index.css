@@ -1,0 +1,10 @@
+.first {
+    background-color: lightgray;
+    height: 15vh;
+    padding: 25px 10px 10px 25px;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+  }
